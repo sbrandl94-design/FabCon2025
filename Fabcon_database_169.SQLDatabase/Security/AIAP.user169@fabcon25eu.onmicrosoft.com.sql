@@ -1,0 +1,6 @@
+CREATE USER [AIAP.user169@fabcon25eu.onmicrosoft.com]
+    WITH SID = 0x82629128AAEF2C4BB739AB1C4B0503CF, TYPE = E;
+
+
+GO
+
